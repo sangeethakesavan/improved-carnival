@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Projectmanager</name>
+   <tag></tag>
+   <elementGuidId>01a773c0-de79-43aa-bc20-500be4402e14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[1]/app-root[1]/app-layout[1]/div[1]/app-create-users[1]/div[2]/form[1]/div[2]/div[3]/div[1]/angular2-multiselect[1]/div[1]/div[1]/div[1]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-layout[1]/div[1]/app-create-users[1]/div[2]/form[1]/div[2]/div[3]/div[1]/angular2-multiselect[1]/div[1]/div[1]/div[1]</value>
+   </webElementProperties>
+</WebElementEntity>

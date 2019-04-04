@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>next4PM</name>
+   <tag></tag>
+   <elementGuidId>4c4a9c9b-41a6-4662-a233-1e8fa595492d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[1]/app-root[1]/app-layout[1]/div[1]/app-reviewer-review-form[1]/div[2]/form[1]/div[2]/div[1]/mat-horizontal-stepper[1]/div[2]/div[4]/form[1]/div[6]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-layout[1]/div[1]/app-reviewer-review-form[1]/div[2]/form[1]/div[2]/div[1]/mat-horizontal-stepper[1]/div[2]/div[4]/form[1]/div[6]/button[2]</value>
+   </webElementProperties>
+</WebElementEntity>

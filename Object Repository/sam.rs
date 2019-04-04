@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sam</name>
+   <tag></tag>
+   <elementGuidId>4ca38943-f01b-4df3-bf00-40646624fc61</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>.//*[@id='mat-dialog-0']/app-dashboard/div[2]/form/div/div/div[2]/div[1]/div/angular2-multiselect/div/div[1]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>.//*[@id='mat-dialog-0']/app-dashboard/div[2]/form/div/div/div[2]/div[1]/div/angular2-multiselect/div/div[1]/div</value>
+   </webElementProperties>
+</WebElementEntity>

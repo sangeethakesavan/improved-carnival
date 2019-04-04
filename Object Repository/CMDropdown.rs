@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CMDropdown</name>
+   <tag></tag>
+   <elementGuidId>f3265034-f26c-4d6f-bd85-45030c38049d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[1]/app-root[1]/app-layout[1]/div[1]/app-create-users[1]/div[2]/form[1]/div[2]/div[2]/div[1]/angular2-multiselect[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-layout[1]/div[1]/app-create-users[1]/div[2]/form[1]/div[2]/div[2]/div[1]/angular2-multiselect[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[4]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Rolesdropdown</name>
+   <tag></tag>
+   <elementGuidId>992976a8-7c99-401f-894b-bb357e835474</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//angular2-multiselect[@name='designationId']//div[@class='c-btn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//angular2-multiselect[@name='designationId']//div[@class='c-btn']</value>
+   </webElementProperties>
+</WebElementEntity>

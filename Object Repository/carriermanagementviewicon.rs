@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>carriermanagementviewicon</name>
+   <tag></tag>
+   <elementGuidId>0733e9b6-582b-4fc2-aa00-d4aca4d99135</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[1]/app-root[1]/app-layout[1]/div[1]/app-manager-dashboard[1]/div[2]/div[1]/div[1]/mat-tab-group[1]/div[1]/mat-tab-body[1]/div[1]/app-career-management[1]/div[3]/div[1]/div[1]/mat-table[1]/mat-row[1]/mat-cell[8]/i[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-layout[1]/div[1]/app-manager-dashboard[1]/div[2]/div[1]/div[1]/mat-tab-group[1]/div[1]/mat-tab-body[1]/div[1]/app-career-management[1]/div[3]/div[1]/div[1]/mat-table[1]/mat-row[1]/mat-cell[8]/i[1]</value>
+   </webElementProperties>
+</WebElementEntity>

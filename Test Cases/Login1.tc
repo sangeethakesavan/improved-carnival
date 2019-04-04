@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login1</name>
+   <tag></tag>
+   <comment>Login in to the 2020 PRT Page</comment>
+   <testCaseGuid>10704bf0-5762-4a3d-ac89-5bbfa1a0ccd4</testCaseGuid>
+</TestCaseEntity>

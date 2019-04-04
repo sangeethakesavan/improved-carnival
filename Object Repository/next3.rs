@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>next3</name>
+   <tag></tag>
+   <elementGuidId>d4adaf2c-9c9d-411b-8129-dc861dbd15e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[1]/app-root[1]/app-layout[1]/div[1]/app-newform[1]/div[2]/form[1]/div[2]/div[1]/mat-horizontal-stepper[1]/div[2]/div[3]/form[1]/div[6]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-layout[1]/div[1]/app-newform[1]/div[2]/form[1]/div[2]/div[1]/mat-horizontal-stepper[1]/div[2]/div[3]/form[1]/div[6]/button[2]</value>
+   </webElementProperties>
+</WebElementEntity>
